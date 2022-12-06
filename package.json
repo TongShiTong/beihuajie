@@ -20,7 +20,7 @@
     "html2canvas": "^1.0.0-alpha.12",
     "mint-ui": "^2.2.13",
     "qrcanvas": "^3.0.1",
-    "qs": "^6.6.0",
+    "qs": "^6.6.1",
     "vue": "^2.5.2",
     "vue-h5-plus": "^1.2.0",
     "vue-layer-mobile": "^1.2.0",
